@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasnain916" alt="hasnain916" /></a> </p>
 
-- 🌱 I’m currently learning **Mobile App Development**
-
 - 🤝 I’m looking for a new role **Mobile Developer**
 
 - 👨‍💻 All of my projects are available at [codemagz.com](codemagz.com)
