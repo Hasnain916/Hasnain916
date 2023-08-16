@@ -5,7 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasnain916" alt="hasnain916" /></a> </p>
 
-- 🤝 I’m looking for a new role **Mobile Developer**
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🌱 I’m currently learning **Mobile App Development**
+
+- 🤝 I’m looking for new role **Mobile Developer**
 
 - 👨‍💻 All of my projects are available at [codemagz.com](codemagz.com)
 
@@ -27,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasnain916&show_icons=true&locale=en" alt="hasnain916" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnain916&" alt="hasnain916" /></p>
+
