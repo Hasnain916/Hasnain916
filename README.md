@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **flutter, Mobile Apps**
+- 💬 Ask me about **flutter, Data Analytics, Data Science**
 
 - 📫 How to reach me **hasnainawan1357@gmail.com**
 
